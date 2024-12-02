@@ -1,0 +1,7 @@
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\WorkWithString\WorkWithString\bin\Debug\WorkWithString.exe.config
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\WorkWithString\WorkWithString\bin\Debug\WorkWithString.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\WorkWithString\WorkWithString\bin\Debug\WorkWithString.pdb
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\WorkWithString\WorkWithString\obj\Debug\WorkWithString.csproj.AssemblyReference.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\WorkWithString\WorkWithString\obj\Debug\WorkWithString.csproj.CoreCompileInputs.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\WorkWithString\WorkWithString\obj\Debug\WorkWithString.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\WorkWithString\WorkWithString\obj\Debug\WorkWithString.pdb
